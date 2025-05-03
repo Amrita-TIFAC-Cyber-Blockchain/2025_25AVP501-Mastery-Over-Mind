@@ -7,3 +7,15 @@
 ![](https://img.shields.io/badge/Lecture-1-orange) ![](https://img.shields.io/badge/Practical-2-orange)  ![](https://img.shields.io/badge/Credits-2-orange) <br/>
 ![](https://img.shields.io/badge/Students-TBD-blue) ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Average_Marks-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
 
+#### Course Instructor:  Mr. Ramaguru Radhakrishnan, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
+
+### :books: Course Outcome
+
+| CO#     | CO Description                                                                 |
+|---------|---------------------------------------------------------------------------------------------|
+| CO1     | To be able to describe what meditation is and to understand its health benefits            |
+| CO2     | To understand the causes of stress and how meditation improves well-being                  |
+| CO3     | To understand the science of meditation                                                     |
+| CO4     | To learn and practice MAOM meditation in daily life                                         |
+| CO5     | To understand the application of meditation to improve communication and relationships      |
+| CO6     | To be able to understand the power of meditation in compassion-driven action                |
